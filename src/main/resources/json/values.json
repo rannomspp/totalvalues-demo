@@ -1,0 +1,72 @@
+[
+  {
+    "value": 4,
+    "childs": [
+      {
+        "value": 9,
+        "childs": [
+          {
+            "value": 2,
+            "childs": null
+          },
+          {
+            "value": 6,
+            "childs": null
+          }
+        ]
+      },
+      {
+        "value": 8,
+        "childs": [
+          {
+            "value": 4,
+            "childs": null
+          },
+          {
+            "value": 0,
+            "childs": null
+          }
+        ]
+      },
+      {
+        "value": 6,
+        "childs": null
+      }
+    ]
+  },
+  {
+    "value": 9,
+    "childs": [
+      {
+        "value": 7,
+        "childs": [
+          {
+            "value": 1,
+            "childs": null
+          },
+          {
+            "value": 4,
+            "childs": null
+          }
+        ]
+      },
+      {
+        "value": 0,
+        "childs": [
+          {
+            "value": 5,
+            "childs": null
+          },
+          {
+            "value": 4,
+            "childs": null
+          }
+        ]
+      },
+      {
+        "value": 5,
+        "childs": null
+      }
+    ]
+  }
+]
